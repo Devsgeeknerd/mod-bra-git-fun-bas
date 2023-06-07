@@ -1,5 +1,25 @@
-# CURSO DE INGLÊS PARA PROGRAMADORES
+<!-- Título -->
+# Branches
 
-## INFORMAÇÕES
+***Conteúdo do Módulo:***
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devgeeknerd.curso-de-ingles-para-programadores "Total de Visitas")
+* [ ] [O Que é Uma Branch?](https://github.com/Devsgeeknerd/cla-o-que-uma-bra-bra-git-fun-bas) &#128679;
+* [ ] [Criando Branches.](https://github.com/Devsgeeknerd/cla-cri-bra-bra-git-fun-bas) &#128679;
+* [ ] [Utilizando Branches.](https://github.com/Devsgeeknerd/cla-uti-bra-bra-git-fun-bas) &#128679;
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-bra-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-bra-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-bra-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-bra-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-bra-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
