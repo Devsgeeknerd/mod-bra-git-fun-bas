@@ -4,7 +4,7 @@
 ***Conteúdo do Módulo:***
 
 * [x] [O Que é Uma Branch?](https://github.com/Devsgeeknerd/cla-o-que-uma-bra-bra-git-fun-bas)
-* [ ] [Criando Branches.](https://github.com/Devsgeeknerd/cla-cri-bra-bra-git-fun-bas) &#128679;
+* [x] [Criando Branches.](https://github.com/Devsgeeknerd/cla-cri-bra-bra-git-fun-bas)
 * [ ] [Utilizando Branches.](https://github.com/Devsgeeknerd/cla-uti-bra-bra-git-fun-bas) &#128679;
 
 <!-- Informações -->
